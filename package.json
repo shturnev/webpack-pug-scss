@@ -1,7 +1,7 @@
 {
-  "name": "hayk-front-test",
+  "name": "webpack-pug-scss",
   "version": "1.0.0",
-  "description": "тестовое задание (front) для hayk",
+  "description": "стартовый набор для работы с webpack + pug + scss",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server",
